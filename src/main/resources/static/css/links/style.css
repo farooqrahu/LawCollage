@@ -214,7 +214,7 @@ div.title h2 {
 ================================================
 */
 #dvLoading {
-	background: url(../images/loader.gif) no-repeat center center #fff;
+	background: url(../../js/images/loader.gif) no-repeat center center #fff;
 	width: 100%;
 	height: 100%;
 	position: fixed;
@@ -585,25 +585,25 @@ header {
 	opacity: 0.7;
 }
 .callout-img1 {
-	background-image: url(../images/callout-img1.jpg);
+	background-image: url(../../js/images/callout-img1.jpg);
 }
 .callout-img2:before {
 	opacity: 0.85;
 }
 .callout-img2 {
-	background-image: url(../images/callout-img2.jpg);
+	background-image: url(../../js/images/callout-img2.jpg);
 }
 .callout-img3:before {
 	opacity: 0.83;
 }
 .callout-img3 {
-	background-image: url(../images/callout-img3.jpg);
+	background-image: url(../../js/images/callout-img3.jpg);
 }
 .callout-img4:before {
 	opacity: 0.8;
 }
 .callout-img4 {
-	background-image: url(../images/callout-img4.jpg);
+	background-image: url(../../js/images/callout-img4.jpg);
 }
 .callouts h3 {
 	color: #304771;
@@ -692,7 +692,7 @@ header {
 	float: left;
 	width: 100%;
 	padding: 83px 0 68px;
-	background-image: url(../images/experience-bg.jpg);
+	background-image: url(../../js/images/experience-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: left center;
@@ -792,7 +792,7 @@ header {
 .barrister-satisfied-wrapper {
 	padding: 80px 0 74px;
 	float: left;
-	background: url(../images/satisfied-wrapper-bg.jpg);
+	background: url(../../js/images/satisfied-wrapper-bg.jpg);
 	text-align: center;
 	width: 100%;
 	position: relative;
@@ -892,7 +892,7 @@ header {
 .how-does-wrapper {
 	padding: 80px 0 60px;
 	float: left;
-	background: url(../images/how-does-bg.jpg);
+	background: url(../../js/images/how-does-bg.jpg);
 	text-align: center;
 	width: 100%;
 	position: relative;
@@ -1191,7 +1191,7 @@ header {
 .barrister-video-wrapper {
 	padding: 80px 0 60px;
 	float: left;
-	background: url(../images/video-wrapper-bg.jpg);
+	background: url(../../js/images/video-wrapper-bg.jpg);
 	text-align: center;
 	width: 100%;
 	position: relative;
@@ -1323,7 +1323,7 @@ header {
 ================================================
 */	
 .breadcrumb-wrapper {
-	background: rgba(0, 0, 0, 0) url("../images/breadcrumb-bg.png") no-repeat scroll 0 0 / 100%;
+	background: rgba(0, 0, 0, 0) url("../../js/images/breadcrumb-bg.png") no-repeat scroll 0 0 / 100%;
 	color: #ffffff;
 	float: left;
 	padding: 121px 0 124px;
@@ -1461,7 +1461,7 @@ header {
 	padding:0 0 0 20px;
 	margin:0 30px 0 0;
 	list-style:none;
-	background:url(../images/bulllet-icon.png) no-repeat left 6px;
+	background:url(../../js/images/bulllet-icon.png) no-repeat left 6px;
 	display:inline-block;
 	width: 36%;
 	}	
@@ -1478,7 +1478,7 @@ header {
   z-index: -1;
 }
 .about-video {
-  background: url("../images/about-video-wrapper-bg.jpg") no-repeat fixed left top / cover ;
+  background: url("../../js/images/about-video-wrapper-bg.jpg") no-repeat fixed left top / cover ;
     float: left;
     padding: 140px 0;
     position: relative;
@@ -2372,7 +2372,7 @@ div.faq-wrapper .panel-faq .panel-body {
   z-index: -1;
 }
 .map-wrapper {
-  background: rgba(0, 0, 0, 0) url("../images/map-bg.jpg") no-repeat fixed left top / cover ;
+  background: rgba(0, 0, 0, 0) url("../../js/images/map-bg.jpg") no-repeat fixed left top / cover ;
   float: left;
   padding: 80px 0;
   position: relative;
@@ -2432,7 +2432,7 @@ div.faq-wrapper .panel-faq .panel-body {
 .footer-wrapper {
 	padding: 80px 0 66px;
 	float: left;
-	background: url(../images/footer-bg.jpg);
+	background: url(../../js/images/footer-bg.jpg);
 	width: 100%;
 	position: relative;
 	z-index: 9;
